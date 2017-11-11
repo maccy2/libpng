@@ -88,6 +88,7 @@
 #define png_handle_tRNS wx_png_handle_tRNS
 #define png_handle_zTXt wx_png_handle_zTXt
 #define png_check_chunk_name wx_png_check_chunk_name
+#define png_check_chunk_length wx_png_check_chunk_length
 #define png_handle_unknown wx_png_handle_unknown
 #define png_chunk_unknown_handling wx_png_chunk_unknown_handling
 #define png_do_read_transformations wx_png_do_read_transformations
